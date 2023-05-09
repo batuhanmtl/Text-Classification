@@ -7,3 +7,5 @@
 # Her sınıfa ait tweet metinleri, ayrı bir klasörde yer almaktadır. 
 - Veri kümesindeki sınıf sayısı: 3 
 - Veri kümesindeki toplam kayıt sayısı: 3000 
+
+# Data Source : http://www.kemik.yildiz.edu.tr/?id=28
